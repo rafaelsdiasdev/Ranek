@@ -39,6 +39,7 @@ export default {
       for (let i = 1; i <= total; i++) {
         pagesArray.push(i);
       }
+
       pagesArray.splice(0, current - offset);
       pagesArray.splice(range, total);
       return pagesArray;
