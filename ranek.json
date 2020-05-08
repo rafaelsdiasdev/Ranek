@@ -21,6 +21,30 @@
       "numero": "25",
       "estado": "MA",
       "cidade": "São Luis"
+    },
+    {
+      "id": "joao@email.com",
+      "nome": "João da Silva",
+      "email": "joao@email.com",
+      "senha": "123",
+      "cep": "65074862",
+      "rua": "Rua Sete",
+      "numero": "20",
+      "bairro": "Planalto Vinhais II",
+      "cidade": "São Luís",
+      "estado": "MA"
+    },
+    {
+      "id": "dani@email.com",
+      "nome": "Daniela Lobato",
+      "email": "dani@email.com",
+      "senha": "123",
+      "cep": "65070490",
+      "rua": "Rua Um",
+      "numero": "20",
+      "bairro": "Conjunto dos Ipês",
+      "cidade": "São Luís",
+      "estado": "MA"
     }
   ],
   "produto": [
