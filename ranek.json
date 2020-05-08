@@ -10,6 +10,17 @@
       "numero": "25",
       "estado": "MA",
       "cidade": "São Luis"
+    },
+    {
+      "id": "davi@me.com",
+      "nome": "Davi Silva",
+      "senha": "123",
+      "email": "davi@me.com",
+      "endereço": "Rua Ali Perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "MA",
+      "cidade": "São Luis"
     }
   ],
   "produto": [
