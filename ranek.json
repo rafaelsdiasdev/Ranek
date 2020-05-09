@@ -479,6 +479,30 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet.",
       "fotos": null
+    },
+    {
+      "nome": "Playstation 4",
+      "preco": "3000",
+      "descricao": "Este é o novo Playstation",
+      "fotos": null,
+      "usuario_id": "rafaels.dias@me.com",
+      "id": "uCNfyB0"
+    },
+    {
+      "nome": "Playstation 4",
+      "preco": "3000",
+      "descricao": "Este é o novo Playstation",
+      "fotos": null,
+      "usuario_id": "rafaels.dias@me.com",
+      "id": "yAfjKNi"
+    },
+    {
+      "nome": "Havainas",
+      "preco": "5099",
+      "descricao": "Havainas de pau!!",
+      "fotos": null,
+      "usuario_id": "joao@email.com",
+      "id": "gSoa-r5"
     }
   ]
 }
