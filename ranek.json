@@ -1,15 +1,85 @@
 {
+  "transacao": [
+    {
+      "comrador_id": "rafaelsdias@me.com",
+      "vendedor_id": "rafaels.dias@me.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "rafaels.dias@me.com",
+        "preco": "1399",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "65070490",
+        "rua": "Rua Um",
+        "numero": "05",
+        "bairro": "Conjunto dos Ipês",
+        "cidade": "São Luís",
+        "estado": "MA"
+      },
+      "id": 1
+    },
+    {
+      "comrador_id": "teste@teste.com",
+      "vendedor_id": "rafaels.dias@me.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "rafaels.dias@me.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua Teste",
+        "numero": "05",
+        "bairro": "Bairro do teste",
+        "cidade": "Teste",
+        "estado": "TE"
+      },
+      "id": 2
+    },
+    {
+      "comrador_id": "teste@teste.com",
+      "vendedor_id": "rafaels.dias@me.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "rafaels.dias@me.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua Teste",
+        "numero": "05",
+        "bairro": "Bairro do teste",
+        "cidade": "Teste",
+        "estado": "TE"
+      },
+      "id": 3
+    }
+  ],
   "usuario": [
     {
       "id": "rafaels.dias@me.com",
       "nome": "Rafael Dias",
-      "senha": "123",
       "email": "rafaelsdias@me.com",
-      "endereço": "Rua Ali Perto",
-      "cep": "12345678",
-      "numero": "25",
+      "senha": "123",
+      "cep": "65070490",
+      "rua": "Rua Um",
+      "numero": "05",
+      "bairro": "Conjunto dos Ipês",
+      "cidade": "São Luís",
       "estado": "MA",
-      "cidade": "São Luis"
+      "endereço": "Rua Ali Perto"
     },
     {
       "id": "davi@me.com",
@@ -45,6 +115,18 @@
       "bairro": "Conjunto dos Ipês",
       "cidade": "São Luís",
       "estado": "MA"
+    },
+    {
+      "id": "teste@teste.com",
+      "nome": "Teste testando",
+      "email": "teste@teste.com",
+      "senha": "123",
+      "cep": "12345678",
+      "rua": "Rua Teste",
+      "numero": "05",
+      "bairro": "Bairro do teste",
+      "cidade": "Teste",
+      "estado": "TE"
     }
   ],
   "produto": [
