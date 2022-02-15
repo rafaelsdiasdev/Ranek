@@ -1,4 +1,4 @@
-name: Build and Deploy Storybook on GP
+name: Build and Deploy
 on:
   workflow_dispatch:
     branches:
@@ -19,3 +19,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: master # The branch the action should deploy to.
+
