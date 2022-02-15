@@ -1,7 +1,8 @@
-import axios from "axios";
+import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL:
+    'https://620c2d750eddef1c5382b33f--festive-clarke-01636a.netlify.app',
 });
 
 export const api = {
