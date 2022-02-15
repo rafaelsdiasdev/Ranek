@@ -14,7 +14,7 @@ jobs:
       - name: setup git auth
         env:
           email: 'rsdias84@gmail.com'
-          username: 'rsdias84@gmail.com'
+          username: 'Rafael Dias'
           access_token: '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'
         run: |
           git config --global credential.helper store
