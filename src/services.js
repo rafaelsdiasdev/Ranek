@@ -1,8 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL:
-    'https://620c2d750eddef1c5382b33f--festive-clarke-01636a.netlify.app',
+  baseURL: 'http://localhost:3001',
 });
 
 export const api = {
